@@ -1,11 +1,15 @@
 # NotZ
 $ A command line based notes app
 
-
-
 ## Prerequisites 
 
 Node.js
+
+## Built With
+
+* [Node.js] - You know what it is
+* [Chalk](https://www.npmjs.com/package/chalk) - Terminal styling
+* [Yargs](https://www.npmjs.com/package/yargs) - Parse command line arguments
 
 ## Getting Started 🦮
 
@@ -87,7 +91,3 @@ Example: node app.js read --title="Monday"
 * Boredom
 * Inspiration
 * etc
-
-
-
-
